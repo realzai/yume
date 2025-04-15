@@ -1,4 +1,7 @@
-# Yume (夢)
+# ⚠️ DEPRECATED – Yume (夢)
+
+> **Note:** This project is no longer maintained and has been deprecated in favor of [Yuumi](https://github.com/zaibutcooler/yuumi).
+> You’re welcome to explore or fork this repository, but no further updates are planned.
 
 Yume is a Japanese LLM (Large Language Model) with 1.5 billion parameters, inspired by Andrej Karpathy. It is trained on dialogues from anime and manga, aimed at generating anime dialogues. Future plans include creating a better version, [Yuumi](https://github.com/zaibutcooler/yuumi), which will be a lightweight LLM for daily tasks.
 
